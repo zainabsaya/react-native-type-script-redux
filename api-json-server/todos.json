@@ -1,0 +1,10 @@
+
+ {"UserModel": {
+   "email":"abc",
+   "password":"abc",
+    "firstName": "abc",
+    "lastName": "abc",
+    "subscription": "abc",
+    "token": "abc"
+  }
+}
